@@ -15,10 +15,10 @@ Client 2
 
 Discussion
 
-![Screenshot_5](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/db049740-9e85-4e24-be79-7a1f2d981de9)
+![Screenshot_2](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/dd1e07c7-0f15-4848-a5c7-2f151adf9076)
 
-![Screenshot_6](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/123d55e5-720c-4868-a2a7-5f053a19f4ed)
+![Screenshot_3](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/c2a1ee77-00b5-483c-846c-db83e781f74f)
 
-![Screenshot_7](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/75acb98f-5f85-4158-b783-97dc1d14e07e)
+![Screenshot_4](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/9e1fdd2b-9741-453b-8471-76bdb0a54367)
 
-![Screenshot_8](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/07ab6807-5160-45ff-b755-d2436c3923e1)
+![Screenshot_5](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/ef8e9b15-bbec-47ce-a125-0247e02c3b38)
