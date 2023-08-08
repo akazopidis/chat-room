@@ -4,6 +4,7 @@ Multi-client LAN Chat application
 ![Screenshot_2](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/e1b175f7-2abe-44cc-b08f-d31594347cac)
 
 Client 1
+
 ![Screenshot_3](https://github.com/Apostolos-Kazopidis/chat-room/assets/70575515/e7874877-7bcc-4d8a-b769-69d8d9a1fe95)
 
 
